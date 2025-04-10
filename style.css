@@ -1,0 +1,32 @@
+.chat-box {
+    max-width: 600px;
+    margin: 2rem auto;
+    padding: 1rem;
+    border: 1px solid #ccc;
+    border-radius: 10px;
+    font-family: sans-serif;
+  }
+  
+  .messages {
+    height: 300px;
+    overflow-y: auto;
+    margin-bottom: 1rem;
+    padding: 0.5rem;
+    background: #f9f9f9;
+    border: 1px solid #eee;
+  }
+  
+  form {
+    display: flex;
+    gap: 0.5rem;
+  }
+  
+  input {
+    flex: 1;
+    padding: 0.5rem;
+  }
+  
+  button {
+    padding: 0.5rem 1rem;
+  }
+  
