@@ -18,3 +18,4 @@ On the backend, Node.js with Express or Python with Django/Flask provides a REST
 
 #OUTPUT
 
+![Image](https://github.com/user-attachments/assets/24407981-07e2-4db8-a394-5acf28a0c971)
